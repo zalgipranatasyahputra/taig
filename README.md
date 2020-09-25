@@ -26,6 +26,7 @@
 $ pkg install git python
 $ git clone https://github.com/zalgipranatasyahputra/taig
 $ cd taig
+$ unzip taig.zip
 $ pip install -r requirements.txt
 $ python taig.py
 ```
